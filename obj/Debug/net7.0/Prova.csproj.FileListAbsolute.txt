@@ -1,0 +1,15 @@
+C:\Users\juan.habitzreuter\Desktop\C#\Prova\obj\Debug\net7.0\Prova.csproj.AssemblyReference.cache
+C:\Users\juan.habitzreuter\Desktop\C#\Prova\obj\Debug\net7.0\Prova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan.habitzreuter\Desktop\C#\Prova\obj\Debug\net7.0\Prova.AssemblyInfoInputs.cache
+C:\Users\juan.habitzreuter\Desktop\C#\Prova\obj\Debug\net7.0\Prova.AssemblyInfo.cs
+C:\Users\juan.habitzreuter\Desktop\C#\Prova\obj\Debug\net7.0\Prova.csproj.CoreCompileInputs.cache
+C:\Users\juan.habitzreuter\Desktop\C#\Prova\bin\Debug\net7.0\Prova.exe
+C:\Users\juan.habitzreuter\Desktop\C#\Prova\bin\Debug\net7.0\Prova.deps.json
+C:\Users\juan.habitzreuter\Desktop\C#\Prova\bin\Debug\net7.0\Prova.runtimeconfig.json
+C:\Users\juan.habitzreuter\Desktop\C#\Prova\bin\Debug\net7.0\Prova.dll
+C:\Users\juan.habitzreuter\Desktop\C#\Prova\bin\Debug\net7.0\Prova.pdb
+C:\Users\juan.habitzreuter\Desktop\C#\Prova\obj\Debug\net7.0\Prova.dll
+C:\Users\juan.habitzreuter\Desktop\C#\Prova\obj\Debug\net7.0\refint\Prova.dll
+C:\Users\juan.habitzreuter\Desktop\C#\Prova\obj\Debug\net7.0\Prova.pdb
+C:\Users\juan.habitzreuter\Desktop\C#\Prova\obj\Debug\net7.0\Prova.genruntimeconfig.cache
+C:\Users\juan.habitzreuter\Desktop\C#\Prova\obj\Debug\net7.0\ref\Prova.dll
